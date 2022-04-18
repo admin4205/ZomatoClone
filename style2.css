@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+form{
+	width:440px;
+	padding:25px;
+	margin:auto;
+	border:5px solid rgb(250, 212, 86);
+	border-radius:15px 15px;
+	}
+ 
+	input{
+	background:rgb(49, 47, 47);
+	color:rgb(252, 27, 27);
+	font-size:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:19px;
+	padding-right:19px;
+	margin:6px;
+	}
+ 
+	h2{
+	text-align:center;
+	}
+ 
+	.sc{
+	background:#fff;
+	color:#000;
+	}
